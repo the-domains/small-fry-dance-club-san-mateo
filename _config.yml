@@ -1,0 +1,28 @@
+name: Small Fry Dance Club - San Mateo
+favicon: null
+layout_spectrum: 0.9453847706317902
+typography_spectrum: 0.9506280750501901
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9896040060557425
+  lightness: 0.10717901191674173
+  saturation: 0.7346743287052959
+  rhythmicContrast: 0.5619163415394723
+purpose: []
