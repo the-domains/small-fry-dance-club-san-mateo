@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Small Fry Dance Club - San Mateo]]></title>
+        <description><![CDATA[Small Fry Dance Club - San Mateo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Feb 2016 01:42:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbd4e0bf-5a23-4bf1-9825-3c66baeacc11.jpg">]]></description>
+            <link>undefined73d05fc9-d60e-4bbf-83bc-8c7d7bb07197/index.html</link>
+            <guid isPermaLink="false">73d05fc9-d60e-4bbf-83bc-8c7d7bb07197</guid>
+            <pubDate>Thu, 18 Feb 2016 01:42:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
